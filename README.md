@@ -1,1 +1,1 @@
-# Student-Success-Predictor
+The Student Success Predictor is a machine learning application that uses Logistic Regression to predict the likelihood of a student passing a course based on their study habits and attendance. This project serves as a "capstone activity" to solve the real-world challenge of academic self-awareness using AI/ML concepts.
